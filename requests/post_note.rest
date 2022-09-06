@@ -1,0 +1,16 @@
+POST http://localhost:3001/notes
+Content-Type: application/json
+
+{
+    "content" : "Cada paso que das en direccion de tus metas, por más minusculo que parezca, diferencia a la persona que eras ayer de la que serás mañana"
+}
+
+###
+
+POST http://localhost:3001/notes
+Content-Type: application/json
+
+{
+    
+}
+
